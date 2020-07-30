@@ -1,5 +1,5 @@
 {
-  "name": "novamatic",
+  "name": "novomatic",
   "version": "0.0.1",
   "description": "Novamatic api node wrapper",
   "main": "index.js",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mkadirtan/novamatic.git"
+    "url": "git+https://github.com/mkadirtan/novomatic.git"
   },
   "keywords": [
-    "novamatic",
+    "novomatic",
     "api"
   ],
   "author": "mkadirtan",
