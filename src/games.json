@@ -1,0 +1,454 @@
+{
+  "games": [
+    [
+      692,
+      "allwayshotdeluxe",
+      "Allways Hot Deluxe"
+    ],
+    [
+      693,
+      "arrivaarriva",
+      "arrivaarriva"
+    ],
+    [
+      694,
+      "barssevens",
+      "barssevens"
+    ],
+    [
+      695,
+      "cashrunner",
+      "cashrunner"
+    ],
+    [
+      696,
+      "fruitsnroyal",
+      "fruitsnroyal"
+    ],
+    [
+      697,
+      "goddessrising",
+      "goddessrising"
+    ],
+    [
+      698,
+      "leonardoscode",
+      "leonardoscode"
+    ],
+    [
+      700,
+      "oceantale",
+      "oceantale"
+    ],
+    [
+      702,
+      "pyramidfortune",
+      "pyramidfortune"
+    ],
+    [
+      703,
+      "redhot20",
+      "redhot20"
+    ],
+    [
+      704,
+      "redhot40",
+      "redhot40"
+    ],
+    [
+      705,
+      "redhotburning",
+      "redhotburning"
+    ],
+    [
+      706,
+      "redhotfruits",
+      "redhotfruits"
+    ],
+    [
+      707,
+      "roaringwilds",
+      "roaringwilds"
+    ],
+    [
+      708,
+      "sizzlinghot6extragold",
+      "sizzlinghot6extragold"
+    ],
+    [
+      709,
+      "templeofgold",
+      "templeofgold"
+    ],
+    [
+      710,
+      "vampirefortune",
+      "vampirefortune"
+    ],
+    [
+      711,
+      "wizard",
+      "wizard"
+    ],
+    [
+      712,
+      "bookofradeluxe10",
+      "bookofradeluxe10"
+    ],
+    [
+      715,
+      "europeanroulette",
+      "European Roulette Novomatic"
+    ],
+    [
+      716,
+      "royalcrowneuropeanroulette",
+      "Royal Crown European Roulette"
+    ],
+    [
+      717,
+      "jacksorbetter",
+      "Jacks or Better"
+    ],
+    [
+      718,
+      "jokerwild",
+      "Joker Wild"
+    ],
+    [
+      719,
+      "brunobingo",
+      "brunobingo"
+    ],
+    [
+      720,
+      "luckyladybingo",
+      "luckyladybingo"
+    ],
+    [
+      721,
+      "royalcrownblackjack",
+      "Royal Crown Black Jack"
+    ],
+    [
+      722,
+      "bookofrabingo",
+      "bookofrabingo"
+    ],
+    [
+      301,
+      "africansimba",
+      "African Simba"
+    ],
+    [
+      302,
+      "beetlemaniadeluxe",
+      "Beetlemania Deluxe"
+    ],
+    [
+      303,
+      "bigcatch",
+      "Big Catch"
+    ],
+    [
+      304,
+      "bookofra",
+      "Book of Ra Deluxe"
+    ],
+    [
+      305,
+      "bookofraclassic",
+      "Book of Ra"
+    ],
+    [
+      306,
+      "chicago",
+      "Chicago"
+    ],
+    [
+      307,
+      "cleopatra",
+      "Cleopatra"
+    ],
+    [
+      308,
+      "columbusdeluxe",
+      "Columbus Deluxe"
+    ],
+    [
+      309,
+      "copsnrobbers",
+      "Cops`n`Robbers"
+    ],
+    [
+      310,
+      "dazzlingdiamonds",
+      "Dazzling Diamonds"
+    ],
+    [
+      311,
+      "dolphinspearl",
+      "Dolphins Pearl Deluxe"
+    ],
+    [
+      312,
+      "dolphinspearlclassic",
+      "Dolphins Pearl"
+    ],
+    [
+      313,
+      "fairyqueen",
+      "Fairy Queen"
+    ],
+    [
+      314,
+      "flamedancer",
+      "Flamedancer"
+    ],
+    [
+      315,
+      "fruitsensation",
+      "Fruit Sensation"
+    ],
+    [
+      316,
+      "goldenark",
+      "Golden Ark"
+    ],
+    [
+      317,
+      "goldensevens",
+      "Golden Sevens"
+    ],
+    [
+      318,
+      "gorilla",
+      "Gorilla"
+    ],
+    [
+      319,
+      "happyfruits",
+      "Happy Fruits"
+    ],
+    [
+      320,
+      "indianspirit",
+      "Indian Spirit"
+    ],
+    [
+      321,
+      "justjewelsdeluxe",
+      "Just Jewels Deluxe"
+    ],
+    [
+      322,
+      "katana",
+      "Katana"
+    ],
+    [
+      323,
+      "lordoftheocean",
+      "Lord of the Ocean"
+    ],
+    [
+      324,
+      "luckyladyscharm",
+      "Lucky Ladys Charm Deluxe"
+    ],
+    [
+      325,
+      "princess",
+      "Princess"
+    ],
+    [
+      326,
+      "mermaidspearl",
+      "Mermaids Pearl"
+    ],
+    [
+      327,
+      "orca",
+      "Orca"
+    ],
+    [
+      328,
+      "pharaohsring",
+      "Pharaohs Ring"
+    ],
+    [
+      329,
+      "pharaohstomb",
+      "Pharaohs Tomb"
+    ],
+    [
+      330,
+      "plentyontwenty",
+      "Plenty on Twenty"
+    ],
+    [
+      331,
+      "rainbowking",
+      "Rainbow King"
+    ],
+    [
+      332,
+      "ramses",
+      "Ramses"
+    ],
+    [
+      333,
+      "reelking",
+      "Reel King"
+    ],
+    [
+      335,
+      "secretelixir",
+      "Secret Elixir"
+    ],
+    [
+      336,
+      "sizzlinggems",
+      "Sizzling Gems"
+    ],
+    [
+      337,
+      "sizzlinghotdeluxe",
+      "Sizzling Hot Deluxe"
+    ],
+    [
+      338,
+      "sizzlinghotquatro",
+      "Sizzling Hot Quatro"
+    ],
+    [
+      339,
+      "alchemist",
+      "Alchemist"
+    ],
+    [
+      340,
+      "xtrahot",
+      "Xtrahot"
+    ],
+    [
+      341,
+      "bookofradeluxe6",
+      "Book of Ra 6"
+    ],
+    [
+      342,
+      "luckyrose",
+      "Lucky Rose"
+    ],
+    [
+      343,
+      "anubis",
+      "Anubis"
+    ],
+    [
+      408,
+      "asianattraction",
+      "Asian Attraction"
+    ],
+    [
+      409,
+      "autumnqueen",
+      "Autumn Queen"
+    ],
+    [
+      410,
+      "faust",
+      "Faust"
+    ],
+    [
+      411,
+      "mysticsecrets",
+      "Mystic Secrets"
+    ],
+    [
+      412,
+      "captainventure",
+      "Captain Venture"
+    ],
+    [
+      413,
+      "diamond7",
+      "Diamond 7"
+    ],
+    [
+      414,
+      "changingfate40",
+      "Changing Fate 40"
+    ],
+    [
+      415,
+      "fruitilicious",
+      "Fruitilicious"
+    ],
+    [
+      416,
+      "roaringforties",
+      "Roaring Forties"
+    ],
+    [
+      417,
+      "spectrum",
+      "Spectrum"
+    ],
+    [
+      418,
+      "queencleopatra",
+      "Queen Cleopatra"
+    ],
+    [
+      419,
+      "dragonsdeep",
+      "Dragons Deep"
+    ],
+    [
+      420,
+      "pharaohsnight",
+      "Pharaohs Night"
+    ],
+    [
+      421,
+      "redlineracer",
+      "Red Line Racer"
+    ],
+    [
+      422,
+      "therealkinggoldrecords",
+      "The Real King Gold Records"
+    ],
+    [
+      423,
+      "fruitfall",
+      "Fruit Fall"
+    ],
+    [
+      424,
+      "bankraid",
+      "Bank Raid"
+    ],
+    [
+      425,
+      "powerstars",
+      "Power Stars"
+    ],
+    [
+      426,
+      "dragonspearln",
+      "Dragons Pearl"
+    ],
+    [
+      427,
+      "coinofapollo",
+      "Coin Of Apollo"
+    ],
+    [
+      428,
+      "luckyladyscharmdeluxe6",
+      "Lucky Ladys Charm Deluxe6"
+    ]
+  ]
+}

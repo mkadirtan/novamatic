@@ -1,0 +1,16 @@
+{
+  "queryParameters": [
+    "opPassword",
+    "PlayerID",
+    "sessionId",
+    "PlayerIP",
+    "TradeID",
+    "BetAmount",
+    "WinLose",
+    "BetInfo",
+    "BetDate",
+    "GameID",
+    "SpinID",
+    "Software"
+  ]
+}

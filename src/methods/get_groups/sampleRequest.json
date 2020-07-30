@@ -1,0 +1,8 @@
+{
+    "url": "http://api.casinomodules.com:8080/api/get_groups",
+    "method": "GET",
+    "queryParameters": [
+        "token",
+        "secret_key"
+    ]
+}

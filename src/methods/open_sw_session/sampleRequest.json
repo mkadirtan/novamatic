@@ -1,0 +1,15 @@
+{
+    "url": "http://api.casinomodules.com:8080/api/open_sw_session",
+    "method": "GET",
+    "queryParameters": [
+        "token",
+        "secret_key",
+        "user_id",
+        "group_id",
+        "server",
+        "opPassword",
+        "PlayerID",
+        "sessionID",
+        "walletType",
+    ]
+}

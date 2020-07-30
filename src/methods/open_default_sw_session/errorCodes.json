@@ -1,0 +1,7 @@
+[
+  { "1": "Incorrect parameter" },
+  { "3": "Incorrect token or secret key" },
+  { "4": "Incorrect group" },
+  { "9": "Incorrect response from seamless wallet server" },
+  { "10": "Technical error" }
+]

@@ -1,0 +1,6 @@
+[
+  { "1": "Incorrect parameter" },
+  { "3": "Incorrect token or secret key" },
+  { "4": "Incorrect group" },
+  { "5": "Incorrect user_id" }
+]

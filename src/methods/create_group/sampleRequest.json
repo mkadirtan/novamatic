@@ -1,0 +1,10 @@
+{
+    "url": "http://api.casinomodules.com:8080/api/create_group",
+    "method": "GET",
+    "queryParameters": [
+        "token",
+        "secret_key",
+        "currency",
+        "bets_group"
+    ]
+}

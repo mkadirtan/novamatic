@@ -1,0 +1,10 @@
+{
+    "url": "http://api.casinomodules.com:8080/api/refresh_sw_balance",
+    "method": "GET",
+    "queryParameters": [
+        "token",
+        "secret_key",
+        "user_id",
+        "group_id"
+    ]
+}

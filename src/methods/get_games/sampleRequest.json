@@ -1,0 +1,20 @@
+{
+    "url": "http://reports.casinomodules.com:2086/reports/get_games",
+    "method": "GET",
+    "queryParameters": [
+        {"software": [
+            "netent_desktop",
+            "netent_mobile",
+            "playtech_desktop",
+            "playtech_mobile",
+            "amatic",
+            "egt_desktop",
+            "egt_mobile",
+            "ainsworth_desktop",
+            "ainsworth_mobile",
+            "aristocrat_desktop",
+            "aristocrat_mobile",
+            "novomatic"
+        ]}
+    ]
+}

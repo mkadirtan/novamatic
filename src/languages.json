@@ -1,0 +1,124 @@
+{
+  "novamatic": [
+    {
+      "Language": "Bulgarian",
+      "Single": "bg",
+      "Specific": "bulgarian"
+    },
+    {
+      "Language": "Croatian",
+      "Single": "cr",
+      "Specific": "croatian"
+    },
+    {
+      "Language": "Czech",
+      "Single": "cz",
+      "Specific": "czech"
+    },
+    {
+      "Language": "Danish",
+      "Single": "da",
+      "Specific": "danish"
+    },
+    {
+      "Language": "English",
+      "Single": "en",
+      "Specific": "english"
+    },
+    {
+      "Language": "English (US)",
+      "Single": "en-us",
+      "Specific": "english-us"
+    },
+    {
+      "Language": "French (Standard)",
+      "Single": "fr",
+      "Specific": "french"
+    },
+    {
+      "Language": "Georgian",
+      "Single": "ka",
+      "Specific": "georgian"
+    },
+    {
+      "Language": "German",
+      "Single": "de",
+      "Specific": "german"
+    },
+    {
+      "Language": "Greek",
+      "Single": "el",
+      "Specific": "greek"
+    },
+    {
+      "Language": "Hungarian",
+      "Single": "hu",
+      "Specific": "hungarian"
+    },
+    {
+      "Language": "Italian",
+      "Single": "it",
+      "Specific": "italian"
+    },
+    {
+      "Language": "Norwegian",
+      "Single": "no",
+      "Specific": "norwegian"
+    },
+    {
+      "Language": "Polish",
+      "Single": "pl",
+      "Specific": "polish"
+    },
+    {
+      "Language": "Portuguese (Brazil)",
+      "Single": "pt-br",
+      "Specific": "portuguese-br"
+    },
+    {
+      "Language": "Portuguese (Portugal)",
+      "Single": "pt",
+      "Specific": "portuguese"
+    },
+    {
+      "Language": "Romanian",
+      "Single": "ro",
+      "Specific": "romanian"
+    },
+    {
+      "Language": "Russian",
+      "Single": "ru",
+      "Specific": "russian"
+    },
+    {
+      "Language": "Slovak",
+      "Single": "sk",
+      "Specific": "slovak"
+    },
+    {
+      "Language": "Slovenian",
+      "Single": "sl",
+      "Specific": "slovenian"
+    },
+    {
+      "Language": "Spanish (Mexico)",
+      "Single": "es-mx",
+      "Specific": "spanish-la"
+    },
+    {
+      "Language": "Spanish (Spain)",
+      "Single": "es",
+      "Specific": "spanish"
+    },
+    {
+      "Language": "Swedish",
+      "Single": "sw",
+      "Specific": "swedish"
+    },
+    {
+      "Language": "Turkish",
+      "Single": "tr",
+      "Specific": "turkish"
+    }
+  ]
+}
