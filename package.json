@@ -17,9 +17,9 @@
   "author": "mkadirtan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mkadirtan/novamatic/issues"
+    "url": "https://github.com/mkadirtan/novomatic/issues"
   },
-  "homepage": "https://github.com/mkadirtan/novamatic#readme",
+  "homepage": "https://github.com/mkadirtan/novomatic#readme",
   "devDependencies": {
     "axios": "^0.19.2",
     "xml2js": "^0.4.23"
