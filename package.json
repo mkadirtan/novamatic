@@ -1,0 +1,23 @@
+{
+  "name": "novamatic",
+  "version": "0.0.1",
+  "description": "Novamatic api node wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkadirtan/novamatic.git"
+  },
+  "keywords": [
+    "novamatic",
+    "api"
+  ],
+  "author": "mkadirtan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkadirtan/novamatic/issues"
+  },
+  "homepage": "https://github.com/mkadirtan/novamatic#readme"
+}
